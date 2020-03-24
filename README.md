@@ -14,7 +14,9 @@ Oh and if you fall sick or get dirty, you will incur the wrath of the Guerilla G
 
 To play, click [here](https://nidhisalian.github.io/Virus-Beat/).
 
-## Notes from Dev
+
+
+### Notes from Dev
 - If you reach a new high score, you will be appreciated by a PlateBanger
 (This game was made by a bored Indian with a bad sense of humour.  To know more about Platebangers of India - click [here]())
 - All the squiggly little sprites used in this game were handrawn by.. me!
