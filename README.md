@@ -1,5 +1,6 @@
 # Virus-Beat
-This is a tiny little game I made in half a day for the Indefinite Break Game Jam at IITK
+This is a tiny little game I made in about a day for the Indefinite Break Game Jam at IITK.
+No prizes for guessing what it's based on.
 
 ## Rules
 1. Stay clean, and collect as many resources as you can before they disappear.
