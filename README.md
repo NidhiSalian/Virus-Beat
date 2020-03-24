@@ -9,7 +9,7 @@ This is a tiny little game I made in half a day for the Indefinite Break Game Ja
 That's it really. Try and stay alive as long as you can.
 Oh and if you fall sick or get dirty, you will incur the wrath of the Guerilla Grannies.
 
-# Play Online
+## Play Online
 
 To play, click [here](https://nidhisalian.github.io/Virus-Beat/).
 
