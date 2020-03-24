@@ -4,6 +4,7 @@ This is a tiny little game I made in half a day for the Indefinite Break Game Ja
 ## Rules
 1. Stay clean, and collect as many resources as you can before they disappear.
 2. Avoid all other humans.
+3. If you come into contact with a sneezer - use a mask, with a hugger - sanitize.
 
 That's it really. Try and stay alive as long as you can.
 Oh and if you fall sick or get dirty, you will incur the wrath of the Guerilla Grannies.
